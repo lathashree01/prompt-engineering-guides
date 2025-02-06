@@ -17,3 +17,5 @@ Curated prompt engineering guides for LLMs
   53:56 Jailbreaking
   56:51 Evolution of prompt engineering
   1:04:34 Future of prompt engineering
+
+  - [Prompt engineering overview by Anthropic](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
