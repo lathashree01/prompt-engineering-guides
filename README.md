@@ -10,6 +10,7 @@ When communicating with a text-to-image or a text-to-audio model, a typical prom
 
 Curated prompt engineering guides for LLMs
 
+- [Prompt engineering roadmap](https://roadmap.sh/prompt-engineering?)
 - [OpenAI prompt engineering](https://platform.openai.com/docs/guides/prompt-engineering) - strategies and tactics for getting better results from LLMs \
 - [DAIR.AI prompt engineering guide (LLM setting)](https://www.promptingguide.ai/) - Extremely comprehensive guide with an explanation of various techniques, models, and applications based on prompting \
 - [Prompts Lab - Awesome prompt engineering guide](https://github.com/promptslab/Awesome-Prompt-Engineering) - A github repository containing guides to Prompt engineering
